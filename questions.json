@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Vad är huvudstaden i Sverige?",
+        "options": ["Stockholm", "Göteborg", "Malmö", "Uppsala"],
+        "answer": "Stockholm"
+    },
+    {
+        "question": "Vilket år landade den första människan på månen?",
+        "options": ["1969", "1972", "1965", "1970"],
+        "answer": "1969"
+    },
+    {
+        "question": "Vilket språk är mest talat i världen?",
+        "options": ["Engelska", "Spanska", "Mandarin", "Hindi"],
+        "answer": "Mandarin"
+    },
+    {
+        "question": "Vilken är den längsta floden i världen?",
+        "options": ["Amazonfloden", "Nilen", "Ganges", "Mississippi"],
+        "answer": "Nilen"
+    },
+    {
+        "question": "Vem målade 'Nattvakten'?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Rembrandt"],
+        "answer": "Rembrandt"
+    },
+    {
+        "question": "Vilken är den största planeten i vårt solsystem?",
+        "options": ["Jupiter", "Mars", "Saturnus", "Neptunus"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Vilket grundämne har kemisk symbol 'O'?",
+        "options": ["Guld", "Syre", "Helium", "Väte"],
+        "answer": "Syre"
+    },
+    {
+        "question": "Vilket land vann fotbolls-VM för damer 2019?",
+        "options": ["USA", "Sverige", "Nederländerna", "Tyskland"],
+        "answer": "USA"
+    },
+    {
+        "question": "I vilken stad finns Frihetsgudinnan?",
+        "options": ["New York", "Washington D.C.", "San Francisco", "Chicago"],
+        "answer": "New York"
+    },
+    {
+        "question": "Vilken är världens djupaste ocean?",
+        "options": ["Atlanten", "Indiska oceanen", "Stilla havet", "Arktiska oceanen"],
+        "answer": "Stilla havet"
+    }
+]
