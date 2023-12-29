@@ -1,6 +1,6 @@
 [
     {
-        "question": "Vad är huvudstaden i Sverige?",
+        "question": "Vilken stad är huvudstaden i Sverige?",
         "options": ["Stockholm", "Göteborg", "Malmö", "Uppsala"],
         "answer": "Stockholm"
     },
@@ -45,7 +45,7 @@
         "answer": "New York"
     },
     {
-        "question": "Vilken är världens djupaste ocean?",
+        "question": "Vilket är världens djupaste hav?",
         "options": ["Atlanten", "Indiska oceanen", "Stilla havet", "Arktiska oceanen"],
         "answer": "Stilla havet"
     }
