@@ -1,0 +1,7 @@
+[
+    {
+        "question": "Vilken stad är huvudstaden i Sverige?",
+        "options": ["Stockholm", "Göteborg", "Malmö", "Uppsala"],
+        "answer": "Stockholm"
+    }
+]
